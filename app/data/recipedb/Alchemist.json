@@ -6,12 +6,12 @@
     "level": 380,
     "maxQuality": 26541,
     "name": {
-      "cn": "",
-      "de": "",
+      "cn": "1",
+      "de": "1",
       "en": "4 Star 35 Durability Test",
-      "fr": "",
-      "ja": "",
-      "ko": ""
+      "fr": "1",
+      "ja": "1",
+      "ko": "1"
     },
     "stars": 4
       {
@@ -21,12 +21,12 @@
     "level": 380,
     "maxQuality": 35881,
     "name": {
-      "cn": "",
-      "de": "",
+      "cn": "2",
+      "de": "2",
       "en": "4 Star 70 Durability Test 1",
-      "fr": "",
-      "ja": "",
-      "ko": ""
+      "fr": "2",
+      "ja": "2",
+      "ko": "2"
     },
     "stars": 4
   {
@@ -36,12 +36,12 @@
     "level": 380,
     "maxQuality": 32881,
     "name": {
-      "cn": "",
-      "de": "",
+      "cn": "2",
+      "de": "2",
       "en": "4 Star 70 Durability Test 2",
-      "fr": "",
-      "ja": "",
-      "ko": ""
+      "fr": "2",
+      "ja": "2",
+      "ko": "2"
     },
     "stars": 4
 ]
