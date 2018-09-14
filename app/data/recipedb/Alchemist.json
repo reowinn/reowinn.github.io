@@ -1,10 +1,10 @@
 [
   {
-    "baseLevel": 1,
-    "difficulty": 19,
-    "durability": 60,
-    "level": 1,
-    "maxQuality": 312,
+    "baseLevel": 70,
+    "difficulty": 3560,
+    "durability": 70,
+    "level": 380,
+    "maxQuality": 35881,
     "name": {
       "cn": "气囊元件",
       "de": "Ballonhüllen-Bauteil",
@@ -14,4 +14,4 @@
       "ko": "공기주머니 부재"
     }
   }
-	]
+]
