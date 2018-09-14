@@ -11918,7 +11918,7 @@
     "baseLevel": 70,
     "difficulty": 3560,
     "durability": 70,
-    "id": "8e90bbfd09a",
+    "id": "X0",
     "level": 380,
     "maxQuality": 35881,
     "name": {
@@ -11930,11 +11930,12 @@
       "ko": "Silvergrace Grimoire"
     },
     "stars": 3
+  }
     {
     "baseLevel": 70,
     "difficulty": 3560,
     "durability": 70,
-    "id": "8e90bbfd09a",
+    "id": "X1",
     "level": 380,
     "maxQuality": 35881,
     "name": {
@@ -11946,12 +11947,12 @@
       "ko": "Silvergrace Grimoire"
     },
     "stars": 3
-      "stars": 3
+  }
     {
     "baseLevel": 70,
     "difficulty": 2920,
     "durability": 35,
-    "id": "8e90bbfd09a",
+    "id": "X3",
     "level": 380,
     "maxQuality": 3200,
     "name": {
@@ -11963,4 +11964,5 @@
       "ko": "Silvergrace Grimoire"
     },
     "stars": 3
+  }
 ]
