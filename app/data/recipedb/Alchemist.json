@@ -11914,4 +11914,53 @@
     },
     "stars": 3
   }
+  {
+    "baseLevel": 70,
+    "difficulty": 3560,
+    "durability": 70,
+    "id": "8e90bbfd09a",
+    "level": 380,
+    "maxQuality": 35881,
+    "name": {
+      "cn": "清银魔导书",
+      "de": "Silbergunst-Grimoire",
+      "en": "4 Star high durability 1",
+      "fr": "Grimoire en graçargent",
+      "ja": "グレースグリモア",
+      "ko": "Silvergrace Grimoire"
+    },
+    "stars": 3
+    {
+    "baseLevel": 70,
+    "difficulty": 3560,
+    "durability": 70,
+    "id": "8e90bbfd09a",
+    "level": 380,
+    "maxQuality": 35881,
+    "name": {
+      "cn": "清银魔导书",
+      "de": "Silbergunst-Grimoire",
+      "en": "4 Star high durability 2",
+      "fr": "Grimoire en graçargent",
+      "ja": "グレースグリモア",
+      "ko": "Silvergrace Grimoire"
+    },
+    "stars": 3
+      "stars": 3
+    {
+    "baseLevel": 70,
+    "difficulty": 2920,
+    "durability": 35,
+    "id": "8e90bbfd09a",
+    "level": 380,
+    "maxQuality": 3200,
+    "name": {
+      "cn": "清银魔导书",
+      "de": "Silbergunst-Grimoire",
+      "en": "4 Star low durability",
+      "fr": "Grimoire en graçargent",
+      "ja": "グレースグリモア",
+      "ko": "Silvergrace Grimoire"
+    },
+    "stars": 3
 ]
