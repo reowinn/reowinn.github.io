@@ -11882,15 +11882,15 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 2760,
+    "difficulty": 3560,
     "durability": 70,
-    "id": "fc9344579d5",
-    "level": 350,
-    "maxQuality": 24033,
+    "id": "X0",
+    "level": 380,
+    "maxQuality": 35881,
     "name": {
       "cn": "古木树液",
       "de": "Alter Baumsaft",
-      "en": "Veteran Tree Sap",
+      "en": "High Durability Testing",
       "fr": "Sève de vieil arbre",
       "ja": "老木樹液",
       "ko": "Veteran Tree Sap"
@@ -11899,19 +11899,19 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 7097,
-    "durability": 70,
-    "id": "597587d9b98",
-    "level": 350,
-    "maxQuality": 9243,
+    "difficulty": 2465,
+    "durability": 35,
+    "id": "X1",
+    "level": 380,
+    "maxQuality": 24033,
     "name": {
       "cn": "管弦乐琴乐谱：彼岸花开",
       "de": "Notenrolle von „Wayward Daughter“",
-      "en": "Wayward Daughter Orchestrion Roll",
+      "en": "Low Durability Test 1",
       "fr": "Rouleau \"Wayward Daughter\"",
       "ja": "オーケストリオン譜:月下彼岸花",
       "ko": "Wayward Daughter Orchestrion Roll"
     },
-    "stars": 3
+    "stars": 4
   }
 ]
