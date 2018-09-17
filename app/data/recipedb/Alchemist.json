@@ -1733,6 +1733,23 @@
   },
   {
     "baseLevel": 70,
+    "difficulty": 4060,
+    "durability": 70,
+    "id": "X0",
+    "level": 380,
+    "maxQuality": 40881,
+    "name": {
+      "cn": "",
+      "de": "",
+      "en": "High Durability Testing 2",
+      "fr": "",
+      "ja": "",
+      "ko": ""
+    },
+    "stars": 4
+  },
+  {
+    "baseLevel": 70,
     "difficulty": 2465,
     "durability": 35,
     "id": "X1",
@@ -1742,6 +1759,23 @@
       "cn": "",
       "de": "",
       "en": "Low Durability Test 1",
+      "fr": "",
+      "ja": "",
+      "ko": ""
+    },
+    "stars": 4
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 3065,
+    "durability": 35,
+    "id": "X1",
+    "level": 380,
+    "maxQuality": 30033,
+    "name": {
+      "cn": "",
+      "de": "",
+      "en": "Low Durability Test 2",
       "fr": "",
       "ja": "",
       "ko": ""
