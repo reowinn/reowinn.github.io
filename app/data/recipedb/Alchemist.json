@@ -1733,15 +1733,15 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 4060,
+    "difficulty": 3729,
     "durability": 70,
     "id": "X1",
     "level": 380,
-    "maxQuality": 40881,
+    "maxQuality": 29592,
     "name": {
       "cn": "",
       "de": "",
-      "en": "High Durability Testing 2",
+      "en": "3729/29592",
       "fr": "",
       "ja": "",
       "ko": ""
@@ -1767,15 +1767,15 @@
   },
   {
     "baseLevel": 70,
-    "difficulty": 3065,
+    "difficulty": 2486,
     "durability": 35,
     "id": "X3",
     "level": 380,
-    "maxQuality": 30033,
+    "maxQuality": 21138,
     "name": {
       "cn": "",
       "de": "",
-      "en": "Low Durability Test 2",
+      "en": "2486/21138",
       "fr": "",
       "ja": "",
       "ko": ""
